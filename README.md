@@ -38,7 +38,7 @@
     *   **Engines/Frameworks:** Unity (HDRP), .NET
     *   **AI/CV:** OpenCV, TensorFlow (기초)
     *   **Hardware/Protocols:** PLCs (MELSEC), TCP/IP, Arduino, Raspberry Pi, Kinect, LiDAR
-    *   **DB/Cloud:** Google Firebase Realtime DB
+    *   **DB/Cloud:** MySQL, SQLite, Google Firebase Realtime DB
     *   **Web:** Vue.js, React, Three.js (뷰어용)
     *   **Tools:** Git, Docker (경험 기반), Gx-works2, Mx-Component, MIL SDK
 *   **플랫폼:** Windows (주력 개발 환경), Linux (Ubuntu - ROS/라즈베리파이 프로젝트용), Raspberry Pi, Arduino
@@ -78,7 +78,7 @@
     *   **Engines/Frameworks:** Unity (HDRP), .NET
     *   **AI/CV:** OpenCV, TensorFlow (Basic)
     *   **Hardware/Protocols:** PLCs (MELSEC), TCP/IP, Arduino, Raspberry Pi, Kinect, LiDAR
-    *   **DB/Cloud:** Google Firebase Realtime DB
+    *   **DB/Cloud:** MySQL, SQLite, Google Firebase Realtime DB
     *   **Web:** Vue.js, React, Three.js (for viewers)
     *   **Tools:** Git, Docker (Implied), Gx-works2, Mx-Component, MIL SDK
 *   **Platforms:** Windows (Primary Dev Environment), Linux (Ubuntu - for ROS/Raspberry Pi projects), Raspberry Pi, Arduino
