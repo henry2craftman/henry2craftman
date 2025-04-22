@@ -18,14 +18,43 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
 <p align="left">
   
-  I'm Henry from South Korea!<br>
-  <br>- 👀 Becoming a craftsman gradually...
-  <br>- 📚 Researching how to teach programming profoundly for students...
-  <br>- ✨ Like riding skateboard and traveling...
+👋 Hi, I'm a **Software Engineer & Tech Lead** specializing in simulation, AI, and interactive systems. I have a passion for building complex solutions and mentoring others.
+
+**🚀 Key Highlights:**
+*   **Led Graphics Team @ Cielab:** Developed AI training data generators (Unity HDRP, CV) for Naver LABs & ADD. Presented Digital Twin work at PLM Conference 2023 ([Video](https://youtu.be/WrpE6T8RTzY?si=2OPZuWetvqwM1LJN)). Managed a team of 9 (devs + artists). [AI Hub Project](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71604).
+*   **Developing Industrial Simulators @ STORY CODE LAB:** Creating 6DoF Robot & PLC-integrated simulators using C#, Unity, TCP/IP, and Firebase. Also providing technical coaching.
+*   **Senior Researcher @ VVR:** Led development of educational VR/AR games using Kinect/LiDAR sensors.
+*   **Machine Vision Engineer @ Keyworks:** Built defect detection systems using C++/MFC/OpenCV/MIL.
+
+**💡 Areas of Expertise:**
+*   Simulation (Robotics, Industrial Equipment, Digital Twin)
+*   AI/ML Data Generation & Synthetic Environments
+*   VR/AR Application Development (Unity)
+*   PLC Integration & Industrial Communication (MELSEC, TCP/IP)
+*   Image Processing & Machine Vision
+*   Team Leadership & Mentoring
+
+**🛠️ Tech Stack:** C#, Unity, C++, Python (Implied via TF), OpenCV, PLC (MELSEC), Firebase, TCP/IP, Git.
+
+🌱 Continuously learning and applying convergence technologies.
+Use code with caution.
+Markdown
+Option 3: More Concise Version
+👋 Software Convergence Specialist | Tech Lead | Educator
+
+Passionate about integrating **Robotics, AI, VR/AR, and IoT**. Experienced in developing complex simulations, AI data generation systems, and interactive applications. Proven ability to lead technical teams and mentor learners across all age groups.
+
+**✨ Currently:** Building Industrial Robot & PLC Simulators (C#, Unity, MELSEC, Firebase). Coaching aspiring developers.
+**✨ Previously:** Led AI Data Synthesis project @ Cielab (Unity HDRP, CV) for Naver LABs/ADD; Developed VR/AR Edu Games @ VVR (Kinect/LiDAR); Built Machine Vision systems @ Keyworks (C++, OpenCV).
+
+**🗣️ Speaker @ PLM Conf 2023:** [Digital Twin](https://youtu.be/WrpE6T8RTzY?si=2OPZuWetvqwM1LJN)
+**🤖 AI Hub Project:** [Data Generator](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71604)
+
+**🔧 Skills:** C#, Unity, C++, PLC Integration, AI/ML Data Gen, VR/AR Dev, Computer Vision, TCP/IP, Firebase, Git, Team Leadership.
+<br>
+<br>
 
 </p>
 
