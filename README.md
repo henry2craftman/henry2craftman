@@ -34,7 +34,7 @@
 
 **🛠️ 기술 스택 & 플랫폼:**
 *   **주요 기술:**
-    *   **Languages:** C#, C++, C
+    *   **Languages:** C#, C++, C, Python
     *   **Engines/Frameworks:** Unity (HDRP), .NET
     *   **AI/CV:** OpenCV, TensorFlow (기초)
     *   **Hardware/Protocols:** PLCs (MELSEC), TCP/IP, Arduino, Raspberry Pi, Kinect, LiDAR
@@ -74,7 +74,7 @@
 
 **🛠️ Tech Stack & Platforms:**
 *   **Key Technologies:**
-    *   **Languages:** C#, C++, C
+    *   **Languages:** C#, C++, C, Python
     *   **Engines/Frameworks:** Unity (HDRP), .NET
     *   **AI/CV:** OpenCV, TensorFlow (Basic)
     *   **Hardware/Protocols:** PLCs (MELSEC), TCP/IP, Arduino, Raspberry Pi, Kinect, LiDAR
