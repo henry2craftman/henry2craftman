@@ -1,6 +1,8 @@
-
-
 <h1 align="center">hey there 👋</h1>
+
+<p align="center">
+  <a href="https://bit.ly/3RwRf0G" target="_blank"><strong>🌐 Visit 코딩도장 Coding Dojang</strong></a>
+</p>
 
 ###
 
@@ -9,7 +11,7 @@
 <p align="left">
 <details open>
 <summary>🇰🇷 한국어로 보기 (Click to expand)</summary>
-   
+
 👋 안녕하세요! 저는 다양한 대상(초중고, 대학생, 성인)을 교육하고 개발팀을 이끌어본 경험이 있는 **소프트웨어 융복합 전문가**입니다. 기술을 통해 물리적인 세계와 디지털 세계를 연결하는 일을 하고 있습니다.
 
 
