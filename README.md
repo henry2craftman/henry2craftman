@@ -80,7 +80,7 @@ I build the bridge between the physical and digital worlds. As an expert in Indu
 
 #### **🎤 Keynotes & Public Engagements**
 
-*   **Keynote Speaker at PLM Conference 2023 (NVIDIA Tech Conference):** I presented a forward-looking vision for the next generation of digital twins, speaking on the "Strategy for Building Open Digital Twins with NVIDIA Omniverse." [Video Link]
+*   **Keynote Speaker at PLM Conference 2023 (NVIDIA Tech Conference):** I presented a forward-looking vision for the next generation of digital twins, speaking on the "Strategy for Building Open Digital Twins with NVIDIA Omniverse." [[Video Link]](https://www.youtube.com/watch?v=WrpE6T8RTzY)
 *   **Project Lead for Korean Government's AI Hub Initiative:** I successfully managed a project to develop a photorealistic image generator, a critical component for advancing national machine learning models. [Project Link]
 
 ---
