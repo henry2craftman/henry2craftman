@@ -39,8 +39,8 @@
 
 #### **🛠️ 기술 무기고 (Technology Arsenal)**
 
-*   **Languages:** C#, C++, Python, C
-*   **Engines & Frameworks:** Unity (HDRP, URP), .NET, MFC
+*   **Languages:** C#, C++, Python
+*   **Engines & Frameworks:** Unity (HDRP, URP), .NET, Windows form, WPF, MFC
 *   **Industrial & Robotics:** **PLC (MELSEC)**, Gx-Works2, Mx-Component, TCP/IP, MQTT
 *   **AI / ML / Vision:** OpenCV, TensorFlow (Basic), MIL SDK, NeRF (Basic)
 *   **Hardware & Sensors:** LiDAR, Kinect, Arduino, Raspberry Pi, ROS (Basic)
