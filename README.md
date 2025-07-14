@@ -32,7 +32,7 @@
 
 #### **🎤 주요 발표 및 대외 활동 (Keynotes & Public Engagements)**
 
-*   **NVIDIA 기술 컨퍼런스 연사 (PLM Conference 2023):** 'NVIDIA Omniverse를 활용한 개방형 디지털 트윈 구축 전략'을 주제로 발표하며, 업계 리더들에게 차세대 디지털 트윈의 비전을 제시했습니다. [영상 링크]
+*   **NVIDIA 기술 컨퍼런스 연사 (PLM Conference 2023):** 'NVIDIA Omniverse를 활용한 개방형 디지털 트윈 구축 전략'을 주제로 발표하며, 업계 리더들에게 차세대 디지털 트윈의 비전을 제시했습니다. [[영상 링크]](https://www.youtube.com/watch?v=WrpE6T8RTzY)
 *   **정부 AI Hub 프로젝트 총괄:** 머신러닝 모델 고도화를 위한 실사 수준 이미지 생성기 개발 프로젝트를 성공적으로 완수했습니다. [프로젝트 링크]
 
 ---
