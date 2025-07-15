@@ -18,11 +18,13 @@
 
 **1. 산업용 디지털 트윈 구축 (PLC & Robotics)**
 *   **실제 공장 설비의 가상화:** Mitsubishi (MELSEC) PLC와 실제 공장 설비를 Unity 가상 환경에 1:1로 연동, 실시간 제어 및 고장 예지 시뮬레이터 개발을 주도했습니다.
-*   **안정적인 데이터 파이프라인 설계:** TCP/IP, MQTT, Firebase 등 산업용 프로토콜을 활용하여 물리적 장비와 디지털 트윈 간의 끊김 없는 양방향 데이터 통신 아키텍처를 설계하고 구현했습니다.
+*   **안정적인 데이터 파이프라인 설계:** TCP/IP, MQTT, Firebase 등 산업용 프로토콜을 활용하여 물리적 장비와 디지털 트윈 간의 끊김 없는 양방향 데이터 통신 아키텍처를 설계하고 구현했습니다. [[연동 영상]](https://youtu.be/Z7nRL82oNe8) [[로봇 티칭 영상]](https://youtu.be/wVCwxrtvSr4)
 
+  
 **2. AI 기반 합성 데이터 생성 (Vision AI)**
-*   **국내 최고 기관과의 협력:** <strong>Naver LABs, 국방과학연구소(ADD)</strong>와 협력하여 AI 학습용 초실사 3D 데이터 생성 파이프라인 개발 프로젝트를 리드했습니다.
+*   **국내 최고 기관과의 협력:** <strong>Naver LABs, 국방과학연구소(ADD)</strong>와 협력하여 AI 학습용 초실사 3D 데이터 생성 파이프라인 개발 프로젝트를 리드했습니다. 
 *   **고품질 데이터셋 제작:** Unity HDRP와 컴퓨터 비전(OpenCV)을 결합하여 LiDAR, 적외선 등 일반적인 방법으로는 수집이 어려운 복합 센서 데이터를 대량으로 생성하고, AI 모델의 성능을 획기적으로 개선하는 데 기여했습니다.
+*   [[영상 링크]](https://www.youtube.com/watch?v=ZoSEtSv_oCY)
 
 **3. 기술 리더십 & 전문가 양성**
 *   **기술 팀 리딩:** 씨이랩(Xiilab), VVR 등에서 개발자/아티스트로 구성된 최대 9명의 팀을 이끌며, 애자일 방법론 기반의 프로젝트 관리 및 기술 아키텍처 설계를 책임졌습니다.
@@ -33,7 +35,7 @@
 #### **🎤 주요 발표 및 대외 활동 (Keynotes & Public Engagements)**
 
 *   **NVIDIA 기술 컨퍼런스 연사 (PLM Conference 2023):** 'NVIDIA Omniverse를 활용한 개방형 디지털 트윈 구축 전략'을 주제로 발표하며, 업계 리더들에게 차세대 디지털 트윈의 비전을 제시했습니다. [[영상 링크]](https://www.youtube.com/watch?v=WrpE6T8RTzY)
-*   **정부 AI Hub 프로젝트 중 엔진개발 리드:** 머신러닝 모델 고도화를 위한 실사 수준 이미지 생성기 개발 프로젝트를 성공적으로 완수했습니다. [[프로젝트 링크]](https://www.youtube.com/watch?v=ZoSEtSv_oCY)
+*   **정부 AI Hub 프로젝트 중 엔진개발 리드:** 머신러닝 모델 고도화를 위한 실사 수준 이미지 생성기 개발 프로젝트를 성공적으로 완수했습니다. [[영상 링크]](https://www.youtube.com/watch?v=ZoSEtSv_oCY)
 
 ---
 
@@ -66,7 +68,7 @@ I build the bridge between the physical and digital worlds. As an expert in Indu
 
 **1. Industrial Digital Twin & PLC Integration**
 *   **Virtualizing Real-World Factories:** I have led the development of simulators for industrial robots and facilities, establishing a 1:1 connection with **Mitsubishi (MELSEC) PLCs** in a Unity-based virtual environment for real-time control and predictive maintenance.
-*   **Designing Robust Data Pipelines:** I have architected and implemented seamless, bidirectional data communication architectures between physical equipment and digital twins, utilizing industrial protocols such as TCP/IP, MQTT, and Firebase.
+*   **Designing Robust Data Pipelines:** I have architected and implemented seamless, bidirectional data communication architectures between physical equipment and digital twins, utilizing industrial protocols such as TCP/IP, MQTT, and Firebase. [[연동 영상]](https://youtu.be/Z7nRL82oNe8) [[로봇 티칭 영상]](https://youtu.be/wVCwxrtvSr4)
 
 **2. AI-Powered Synthetic Data Generation for Vision AI**
 *   **Collaborations with Top-Tier Research Institutions:** I spearheaded a project in partnership with **Naver LABs and the Agency for Defense Development (ADD)** to create a development pipeline for photorealistic 3D data, crucial for training advanced AI models.
