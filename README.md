@@ -44,7 +44,7 @@
 *   **Languages:** C#, C++, Python
 *   **Engines & Frameworks:** Unity (HDRP, URP), .NET, Windows form, WPF, MFC
 *   **Industrial & Robotics:** **PLC (MELSEC)**, Gx-Works2, Mx-Component, TCP/IP, MQTT
-*   **AI / ML / Vision:** OpenCV, TensorFlow (Basic), MIL SDK, NeRF (Basic)
+*   **AI / ML / Vision:** OpenCV, Unity Ml-Agent, TensorFlow (Basic), MIL SDK, NeRF (Basic)
 *   **Hardware & Sensors:** LiDAR, Kinect, Arduino, Raspberry Pi, ROS (Basic)
 *   **DB / Cloud / Web:** Firebase Realtime DB, MySQL, Vue.js, Three.js
 
