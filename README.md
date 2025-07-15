@@ -23,8 +23,8 @@
   
 **2. AI 기반 합성 데이터 생성 (Vision AI)**
 *   **국내 최고 기관과의 협력:** <strong>Naver LABs, 국방과학연구소(ADD)</strong>와 협력하여 AI 학습용 초실사 3D 데이터 생성 파이프라인 개발 프로젝트를 리드했습니다. 
-*   **고품질 데이터셋 제작:** Unity HDRP와 컴퓨터 비전(OpenCV)을 결합하여 LiDAR, 적외선 등 일반적인 방법으로는 수집이 어려운 복합 센서 데이터를 대량으로 생성하고, AI 모델의 성능을 획기적으로 개선하는 데 기여했습니다.
-*   [[영상 링크]](https://www.youtube.com/watch?v=ZoSEtSv_oCY)
+*   **고품질 데이터셋 제작:** Unity HDRP와 컴퓨터 비전(OpenCV)을 결합하여 LiDAR, 적외선 등 일반적인 방법으로는 수집이 어려운 복합 센서 데이터를 대량으로 생성하고, AI 모델의 성능을 획기적으로 개선하는 데 기여했습니다. [[영상 링크]](https://www.youtube.com/watch?v=ZoSEtSv_oCY)
+
 
 **3. 기술 리더십 & 전문가 양성**
 *   **기술 팀 리딩:** 씨이랩(Xiilab), VVR 등에서 개발자/아티스트로 구성된 최대 9명의 팀을 이끌며, 애자일 방법론 기반의 프로젝트 관리 및 기술 아키텍처 설계를 책임졌습니다.
@@ -72,7 +72,7 @@ I build the bridge between the physical and digital worlds. As an expert in Indu
 
 **2. AI-Powered Synthetic Data Generation for Vision AI**
 *   **Collaborations with Top-Tier Research Institutions:** I spearheaded a project in partnership with **Naver LABs and the Agency for Defense Development (ADD)** to create a development pipeline for photorealistic 3D data, crucial for training advanced AI models.
-*   **High-Fidelity Dataset Production:** By combining Unity HDRP with computer vision (OpenCV), I have generated large-scale, complex sensor datasets—including LiDAR and infrared—that are difficult to acquire physically, significantly enhancing the performance of AI models.
+*   **High-Fidelity Dataset Production:** By combining Unity HDRP with computer vision (OpenCV), I have generated large-scale, complex sensor datasets—including LiDAR and infrared—that are difficult to acquire physically, significantly enhancing the performance of AI models. [[영상 링크]](https://www.youtube.com/watch?v=ZoSEtSv_oCY)
 
 **3. Technology Leadership & Expert-Level Training**
 *   **Leading High-Performance Tech Teams:** At companies like Xiilab and VVR, I led multidisciplinary teams of up to nine developers and artists, taking full responsibility for project management, agile methodologies, and technical architecture design.
