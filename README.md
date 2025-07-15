@@ -17,7 +17,7 @@
 #### **💡 핵심 역량 및 대표 경험 (Core Competencies & Signature Experiences)**
 
 **1. 산업용 디지털 트윈 구축 (PLC & Robotics)**
-*   **실제 공장 설비의 가상화:** Mitsubishi (MELSEC) PLC와 실제 공장 설비를 Unity 가상 환경에 1:1로 연동, 실시간 제어 및 고장 예지 시뮬레이터 개발을 주도했습니다.
+*   **실제 공장 설비의 가상화:** Mitsubishi (MELSEC) PLC와 실제 공장 설비를 Unity 가상 환경에 1:1로 연동, 실시간 제어 및 고장 예지 시뮬레이터 개발을 주도했습니다. [[교육과정소개]](https://www.codelabit.co.kr/front/curriculum/robotics_smart.asp) [[프로젝트예시]](https://www.codelabit.co.kr/front/blog/)
 *   **안정적인 데이터 파이프라인 설계:** TCP/IP, MQTT, Firebase 등 산업용 프로토콜을 활용하여 물리적 장비와 디지털 트윈 간의 끊김 없는 양방향 데이터 통신 아키텍처를 설계하고 구현했습니다. [[연동 영상]](https://youtu.be/Z7nRL82oNe8) [[로봇 티칭 영상]](https://youtu.be/wVCwxrtvSr4)
 
   
