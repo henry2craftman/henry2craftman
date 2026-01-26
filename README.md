@@ -20,7 +20,7 @@ Unity 기반 실시간 제어 시스템과 ROS2/강화학습을 결합하여 차
 
 ### 💼 **Career Highlights**
 
-#### **STORY CODE LAB** | 강사 (2023.07 ~ 현재)
+#### **케첩덱스튜디오** | 강사 (2023.07 ~ 현재)
 *Industrial Robots and Equipment Simulators Compatible with PLC Integration*
 
 - 🏭 **PLC 연동 산업용 로봇 시뮬레이터 개발 교육**
