@@ -9,12 +9,17 @@
 <details open>
 <summary><h3>🇰🇷 한국어</h3></summary>
 
-## **신태욱 | Creative Technologist **
+## 신태욱 | Creative Technologist
 
 > *"현실 세계의 물리 법칙을 가상에 복제하고, 강화학습으로 지능을 부여합니다"*
 
-**Creative Technologist   
+**Creative Technologist**   
 Unity 기반 실시간 제어 시스템과 ROS2/강화학습을 결합하여 차세대 스마트 팩토리 솔루션을 개발합니다.
+
+---
+
+Arduino·Raspberry Pi·산업용 센서 기반 IoT 시스템부터 Unity 인터랙티브 3D 시뮬레이터, PLC 설비 연동
+물리-디지털 통합 시스템을 End-to-End로 구축해온 엔지니어. 키네틱 아트 설치물 제작 및 3D 프린터 팜 운영을 통해 구조물 설계·제작 역량 보유.
 
 ---
 
