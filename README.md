@@ -180,11 +180,11 @@ Unity 기반 실시간 제어 시스템과 ROS2/강화학습을 결합하여 차
 <details>
 <summary><h3>🇺🇸 English</h3></summary>
 
-## **Henry Shin | Industrial Digital Twin Architect & Robotics AI Engineer**
+## **Henry Shin | Creative Technologist **
 
 > *"Replicating physical laws in virtual worlds, empowering them with reinforcement learning"*
 
-**5+ Years Experience** | Specialized in Industrial Digital Twins & Robotics Simulation  
+**Creative Technologist 
 Combining Unity-based real-time control systems with ROS2/RL for next-gen smart factory solutions.
 
 ---
