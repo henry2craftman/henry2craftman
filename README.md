@@ -9,11 +9,11 @@
 <details open>
 <summary><h3>🇰🇷 한국어</h3></summary>
 
-## **신태욱 | Industrial Digital Twin Architect & Robotics AI Engineer**
+## **신태욱 | Creative Technologist **
 
 > *"현실 세계의 물리 법칙을 가상에 복제하고, 강화학습으로 지능을 부여합니다"*
 
-**총 경력 5년 4개월** | 산업용 디지털 트윈 및 로보틱스 시뮬레이션 전문가  
+**Creative Technologist   
 Unity 기반 실시간 제어 시스템과 ROS2/강화학습을 결합하여 차세대 스마트 팩토리 솔루션을 개발합니다.
 
 ---
