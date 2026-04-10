@@ -120,8 +120,9 @@ Arduino·Raspberry Pi·산업용 센서 기반 IoT 시스템부터 Unity 인터�
 
 | 프로젝트 | 설명 | 링크 |
 |:---|:---|:---:|
-| **Spot Curriculum Learning** | Boston Dynamics Spot 로봇 PPO 기반 타겟팅부터 주차까지 단계적 학습 | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=4YsCz5fFfj0) |
-| **UR16e ML-Agent Training Series** | Universal Robots UR16e의 강화학습 훈련 시리즈 (1-5편) | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=wddv8uCz7a0) |
+| **Spot Curriculum Learning** | Boston Dynamics Spot 로봇 PPO 기반 타겟팅 | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=4YsCz5fFfj0) |
+| **Turtlebot Curriculum Learning** | Robotis의 Turtlebot3 PPO 기반 타겟팅부터 주차까지 단계적 학습 | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=L59rSr9Eeyw) |
+| **UR16e ML-Agent Training Series** | Universal Robots UR16e의 강화학습 훈련 시리즈 (1-5편) | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=L59rSr9Eeyw) |
 
 #### 📡 **ROS2 & Navigation**
 
@@ -287,32 +288,35 @@ Combining Unity-based real-time control systems with ROS2/RL for next-gen smart 
 
 | Project | Description | Link |
 |:---|:---|:---:|
-| **Spot Curriculum Learning** | Boston Dynamics Spot PPO-based training from targeting to parking | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](YOUR_LINK) |
-| **UR16e ML-Agent Training Series** | Universal Robots UR16e reinforcement learning series (1-5) | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](YOUR_LINK) |
+| **Spot Curriculum Learning** | Boston Dynamics Spot PPO-based training for parking | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=4YsCz5fFfj0) |
+| **Turtlebot Curriculum Learning** | Robotis의 Turtlebot3 PPO from targeting to parking | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=L59rSr9Eeyw) |
+| **UR16e ML-Agent Training Series** | Universal Robots UR16e reinforcement learning series (1-5) | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=L59rSr9Eeyw) |
 
 #### 📡 **ROS2 & Navigation**
 
 | Project | Description | Link |
 |:---|:---|:---:|
-| **ROS2 Navigation in Unity (Part 1)** | Implementing ROS2 Navigation in Unity | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](YOUR_LINK) |
-| **ROS2 Navigation in Unity (Part 2)** | Advanced ROS2 Navigation features | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](YOUR_LINK) |
-| **ROS2 SLAM in Unity** | SLAM mapping implementation in Unity | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](YOUR_LINK) |
-| **A* Congestion-Aware Pathfinding** | Multi-robot deadlock resolution algorithm | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](YOUR_LINK) |
+| **ROS2 Navigation in Unity (Part 1)** | Implementing ROS2 Navigation in Unity | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=xtUvIORydzI) |
+| **ROS2 Navigation in Unity (Part 2)** | Advanced ROS2 Navigation features | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=OAkzLkqNxz8) |
+| **ROS2 SLAM in Unity** | SLAM mapping implementation in Unity | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=jrDRIHDpbm8) |
+| **A* Congestion-Aware Pathfinding** | Multi-robot deadlock resolution algorithm | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=AlpZODWpKlM) |
 
 #### 🏭 **Industrial Digital Twin**
 
 | Project | Description | Link |
 |:---|:---|:---:|
-| **Unity-MELSEC PLC Connection** | Real-time Unity-PLC integration with Realtime DB | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](YOUR_LINK) |
-| **Universal Robot Teaching** | Robot teaching simulator in Unity | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](YOUR_LINK) |
-| **PLC Simulation with 6-Axis Robot** | 6-axis robot PLC simulation | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](YOUR_LINK) |
+| **Unity-MELSEC PLC Connection** | Real-time Unity-PLC integration with Realtime DB | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=Z7nRL82oNe8) |
+| **Universal Robot Teaching** | Robot teaching simulator in Unity | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=wVCwxrtvSr4) |
+| **PLC Simulation with 6-Axis Robot** | 6-axis robot PLC simulation | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=Io934bWutqM) |
 
-#### 🛠️ **Development Tools**
+#### 🛠️ **Hardware & Communication**
 
-| Project | Description | Link |
+| 프로젝트 | 설명 | 링크 |
 |:---|:---|:---:|
-| **Local MQTT Broker (WPF)** | Custom MQTT broker built with WPF | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](YOUR_LINK) |
-| **Unreal Cinematic Study** | Unreal Engine cinematic studies | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](YOUR_LINK) |
+| **Kinetic 7Segment Clock** | Arduino Mega & 30 SG90 servo Kinetic Clock | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.instagram.com/p/DUTRhLsCVmj/)  |
+| **Bipad robot** | Micro Biped Robot | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.threads.com/@korean.henry/post/DUh8SeYko5o) |
+| **Local MQTT Broker (WPF)** | WPF-based Local MQTT Broker | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=1hqUJLcsORw) |
+| **Unreal Cinematic Study** | Unreal Engine Cinematic Study | [![Video](https://img.shields.io/badge/▶-Watch-red?style=flat-square)](https://www.youtube.com/watch?v=ZfGiQTE0Pv0) |
 
 ---
 
