@@ -95,7 +95,7 @@
 |:---|:---|
 | [Spot Curriculum Learning](https://www.youtube.com/watch?v=4YsCz5fFfj0) | Boston Dynamics Spot — Unity ML-Agents PPO 기반 커리큘럼 학습 |
 | [Turtlebot3 Curriculum Learning](https://www.youtube.com/watch?v=L59rSr9Eeyw) | 타겟팅부터 주차까지 단계적 학습 |
-| [UR16e ML-Agent Training Series](여기에_UR16e_영상_링크) | Universal Robots UR16e 강화학습 훈련 시리즈 (1–5편) |
+| [UR16e ML-Agent Training Series](https://www.youtube.com/watch?v=QIvLbZa45oI) | Universal Robots UR16e 강화학습 훈련 시리즈 (1–5편) |
 
 **ROS 2 & Navigation**
 
@@ -184,7 +184,7 @@
 
 ### 📺 Featured Demos
 
-Reinforcement learning: [Spot Curriculum Learning](https://www.youtube.com/watch?v=4YsCz5fFfj0) · [Turtlebot3 Curriculum Learning](https://www.youtube.com/watch?v=L59rSr9Eeyw) · [UR16e ML-Agent Series](여기에_UR16e_영상_링크)
+Reinforcement learning: [Spot Curriculum Learning](https://www.youtube.com/watch?v=4YsCz5fFfj0) · [Turtlebot3 Curriculum Learning](https://www.youtube.com/watch?v=L59rSr9Eeyw) · [UR16e ML-Agent Series](https://www.youtube.com/watch?v=QIvLbZa45oI)
 ROS 2: [Navigation in Unity Pt.1](https://www.youtube.com/watch?v=xtUvIORydzI) · [Pt.2](https://www.youtube.com/watch?v=OAkzLkqNxz8) · [SLAM in Unity](https://www.youtube.com/watch?v=jrDRIHDpbm8) · [A* Congestion-Aware Pathfinding](https://www.youtube.com/watch?v=AlpZODWpKlM)
 Digital twin: [Unity ↔ MELSEC PLC](https://www.youtube.com/watch?v=Z7nRL82oNe8) · [UR Teaching Simulator](https://www.youtube.com/watch?v=wVCwxrtvSr4) · [6-Axis Robot PLC Simulation](https://www.youtube.com/watch?v=Io934bWutqM) · [Local MQTT Broker](https://www.youtube.com/watch?v=1hqUJLcsORw)
 Hardware: [Micro Biped Robot](https://www.threads.com/@korean.henry/post/DUh8SeYko5o) · [Kinetic 7-Segment Clock](https://www.instagram.com/p/DUTRhLsCVmj/)
